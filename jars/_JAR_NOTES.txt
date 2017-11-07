@@ -1,0 +1,7 @@
+- assertj-core: brings in much more expressive assertions (compared to standard junit ones) for use in step-definitions
+- core: the processing language library - used as a convenience for animation (ex. problem set 01 - challenge 05)
+- cucumber-core: basic cucumber functionality (cross-platform)
+- cucumber-html: basic html report generator
+- cucumber-java, cucumber-jvm-deps: brings cucumber to the JVM
+- gherkin: gets the feature files working
+- junit: used in running step definitions
